@@ -5,10 +5,17 @@
 ## Introduction
 I am a recent graduate in Cyber security (BSc) with a profound interest in technology and a dedication to solving complex problems. I love computers and I am a Tech Savvy with passion to safeguarding the digital space and protecting people and organizations against Cyber attacks.
 
+## Frontend Developer
+I satrted as a Frontend developer with core skills in HTML5, CSS, and Javascript. Building nice looking webpage was fun and i love doing it, Web development gave me an edge into the TECH WORLD and it helped build my analytical thinking and problem solving skills.
+
+Then i transitioned into CYBER SECURITY and i aim at getting better by showing up and improving daily.
+
 ## Objective
 
 My journey in Cyber Security started way before i got into College and it has led me to develop a STRONG passion for cybersecurity, sharpening and enhancing my skills in Offensive security. Specifically in Penetration Testing, Web Application Security/Pentesting, Vulnerability Assessment and Penetration Testing (VAPT), Security Researcher, and API Security. Really a Cyber security nerd.
+
 I enjoy building vulnerable applications for practice and CTF challenges, and I’m passionate about helping organizations strengthen their security posture through ethical hacking and secure code analysis.
+
 I’m currently enhancing my expertise through certifications such as the Certified AppSec Practitioner (CAP), Certified Red Team Analyst (CRTA), API Security Practioner (ACP), and Certified Network Security Pratcioner (CNSP) and many more by God's grace.
 
 ## Skills/Tools
