@@ -1,5 +1,19 @@
-# Hi there 👋, I'm Umelo Emmanuel (AKA Genius)
+# Hi there 👋, I'm Umelo Emmanuel (Genius)
+
 <a href="www.linkedin.com/in/genius-franklyn"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+# Tip
+
+* 🔭 I’m currently working on Spreading my wings so wide in Offsec
+
+* 🌱 I’m currently Upskilling/leaarning Offensive Security
+
+* 💬 let's talk about Offsec, Red Teaming, and Cybersecurity
+
+* 📫 I am on a constant growth era. Growing everyday and learning
+
+* ⚡ Fun fact I love Hacking
 
 
 ## Introduction
@@ -23,7 +37,7 @@ I’m currently enhancing my expertise through certifications such as the Certif
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Setting up Private Hacking Home Lab         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
