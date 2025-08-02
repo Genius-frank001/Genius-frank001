@@ -38,15 +38,17 @@ I’m currently enhancing my expertise through certifications such as the Certif
 ## Skills/Tools
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| SkillS                                         |         TOOLS         |
 |-----------------------------------------------|----------------------------|
-| Setting up Private Hacking Home Lab         | <a href="https://google.com">Detection Lab</a>|
-| Ethical Hacking Instructor | <a href="https://google.com">Detection Lab</a>|
-| Setting up Private Active Directory (AD) Lab         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-|    Ethical Hacking            | SOC Automation Lab|
-| Scripting and Automation  | SOC Automation Lab|
-| Consulting & Contract work | Reliable|
+| Setting up Private Hacking Home Lab         | Kali, Metaploitable2, DVWA....|
+| Ethical Hacking Instructor | Metploit, wireshark, Nessus, Nikto, Burpsuite...|
+| Setting up Private Active Directory (AD) Lab         | Nmap, Hashcat, Smbclient, Smbmap...|
+| Incident Response Planning and Execution      | Showdan, maltego, OSINT, Tcpdumb, Aircrack-ng..|
+| Penetration Testing (Web, Network, API, Mobile             | sqlmap, Bloodhound, cobalt strike, spiderfoot...|
+| Scripting and Automation  | Amass, recon-ng, Owasp-zap, gobuster, empire...|
+| Consulting & Contract work | WPScan, Gophish, Acunetx, Social Engineering...|
+| Vulnerability assessment and Penttesting (VAPT) | Exploitdb, Censys, Virustotaal..|
+| Consulting & Contract work | Hydra, John the Ripper, AI, Kali GPT, gau...|
 
 ## Path
 
