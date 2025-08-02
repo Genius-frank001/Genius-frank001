@@ -1,3 +1,6 @@
+
+![My Banner](https://github.com/Genius-frank001/Genius-frank001/blob/main/Banner.jpg?raw=true)
+
 # Hi there 👋, I'm Umelo Emmanuel (Genius)
 
 <a href="www.linkedin.com/in/genius-franklyn"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
