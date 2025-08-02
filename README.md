@@ -42,10 +42,11 @@ I’m currently enhancing my expertise through certifications such as the Certif
 |-----------------------------------------------|----------------------------|
 | Setting up Private Hacking Home Lab         | <a href="https://google.com">Detection Lab</a>|
 | Ethical Hacking Instructor | <a href="https://google.com">Detection Lab</a>|
-| Setting up Privat Active Directory (AD) Lab         | SOC Automation Lab|
+| Setting up Private Active Directory (AD) Lab         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 |    Ethical Hacking            | SOC Automation Lab|
 | Scripting and Automation  | SOC Automation Lab|
+| Consulting & Contract work | Reliable|
 
 ## Path
 
