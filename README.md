@@ -41,11 +41,11 @@ I’m currently enhancing my expertise through certifications such as the Certif
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up Private Hacking Home Lab         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Ethical Hacking Instructor | <a href="https://google.com">Detection Lab</a>|
+| Setting up Privat Active Directory (AD) Lab         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|    Ethical Hacking            | SOC Automation Lab|
+| Scripting and Automation  | SOC Automation Lab|
 
 ## Path
 
