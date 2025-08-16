@@ -49,6 +49,7 @@ I’m currently enhancing my expertise through certifications such as the Certif
 | Consulting & Contract work | WPScan, Gophish, Acunetx, Social Engineering...|
 | Vulnerability assessment and Penttesting (VAPT) | Exploitdb, Censys, Virustotaal..|
 | Consulting & Contract work | Hydra, John the Ripper, AI, Kali GPT, gau...|
+| Momma | I love you | 
 
 ## Path
 
@@ -75,7 +76,6 @@ I’m currently enhancing my expertise through certifications such as the Certif
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-CAP-6A1B9A?&style=for-the-badge&logo=security&logoColor=white" />
