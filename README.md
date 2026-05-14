@@ -1,10 +1,7 @@
 
 ![My Banner](https://github.com/Genius-frank001/Genius-frank001/blob/main/Banner.jpg?raw=true)
 
-# Hi there 👋,
-
-
-# Tip
+# Hi there
 
 * 🔭 I’m currently working on Spreading my wings so wide in Offsec
 
@@ -18,20 +15,12 @@
 
 
 ## Introduction
-I am a recent graduate in Cyber security (BSc) with a profound interest in technology and a dedication to solving complex problems. I love computers and I am a Tech Savvy with passion to safeguarding the digital space and protecting people and organizations against Cyber attacks.
+I am a graduate in Cyber security (BSc) with a profound interest in technology and a dedication to solving complex problems. I specialize in Ethical Hacking AND Penetration Testing (web, network, Api, Mobile) etc... With over 4 years of experience.
 
 ## Frontend Developer
-I satrted as a Frontend developer with core skills in HTML5, CSS, and Javascript. Building nice looking webpage was fun and i love doing it, Web development gave me an edge into the TECH WORLD and it helped build my analytical thinking and problem solving skills.
+I'm a Frontend developer with core skills in HTML5, CSS, and Javascript. Building nice looking webpage for fun and i enjoy doing it, Web development gave me an edge into Tech and it has helped build my analytical thinking and problem solving skills.
 
-Then i transitioned into CYBER SECURITY and i aim at getting better by showing up and improving daily.
 
-## Objective
-
-My journey in Cyber Security started way before i got into College and it has led me to develop a STRONG passion for cybersecurity, sharpening and enhancing my skills in Offensive security. Specifically in Penetration Testing, Web Application Security/Pentesting, Vulnerability Assessment and Penetration Testing (VAPT), Security Researcher, and API Security. Really a Cyber security nerd.
-
-I enjoy building vulnerable applications for practice and CTF challenges, and I’m passionate about helping organizations strengthen their security posture through ethical hacking and secure code analysis.
-
-I’m currently enhancing my expertise through certifications such as the Certified AppSec Practitioner (CAP), Certified Red Team Analyst (CRTA), API Security Practioner (ACP), and Certified Network Security Pratcioner (CNSP) and many more by God's grace.
 
 ## Skills/Tools
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -47,7 +36,6 @@ I’m currently enhancing my expertise through certifications such as the Certif
 | Consulting & Contract work | WPScan, Gophish, Acunetx, Social Engineering...|
 | Vulnerability assessment and Penttesting (VAPT) | Exploitdb, Censys, Virustotaal..|
 | Consulting & Contract work | Hydra, John the Ripper, AI, Kali GPT, gau...|
-| Momma | I love you | 
 
 ## Path
 
@@ -83,6 +71,3 @@ I’m currently enhancing my expertise through certifications such as the Certif
   <img src="https://img.shields.io/badge/-ACP-FDCC0D?style=for-the-badge&logoColor=#ADD8E6&color=FDCC0D&labelColor=FDCC0D" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
