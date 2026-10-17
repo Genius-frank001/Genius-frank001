@@ -15,7 +15,7 @@
 
 
 ## Introduction
-I am a graduate in Cyber security (BSc) with a profound interest in technology and a dedication to solving complex problems. I specialize Security Engineer, Appsec and Penetration Testing (web, network, Api, Mobile) etc... With over 4 years of experience.
+I am a graduate in Cyber security (BSc) with a profound interest in technology and a dedication to solving complex problems. I specialize in Security Engineering, Appsec and Penetration Testing (web, network, Api, Mobile) etc... With over 4 years of experience.
 
 ## Frontend Developer
 I'm a Frontend developer with core skills in HTML5, CSS, and Javascript. Building nice looking webpage for fun and i enjoy doing it, Web development gave me an edge into Tech and it has helped build my analytical thinking and problem solving skills.
